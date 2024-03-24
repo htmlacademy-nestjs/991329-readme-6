@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
 * Студент: [Кирилл Тертунов](https://up.htmlacademy.ru/nodejs-2/6/user/991329).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Осипук](https://up.htmlacademy.ru/nodejs-2/6/user/616431).
 
 ---
 
